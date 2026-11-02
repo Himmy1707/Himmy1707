@@ -17,7 +17,7 @@ A detail-oriented Computer Science graduate with hands-on experience in full-sta
 - 🎓 **Education:** 
   - **B.Sc. (Hons) in Computer Science (CGPA 3.25/4.3)** — The Hong Kong Polytechnic University
   - **Higher Diploma in Software Engineering (Distinction, CGPA 3.98/4.0)** — HKIVE (Tuen Mun)
-- 🏆 **Awards & Recognitions:** HKSAR Government Scholar, Silver Technopreneur Award (YDC Dare to Change), Gold Award winner at Hong Kong Techathon+ 2024.
+- 🏆 **Awards & Recognitions:** HKSAR Government Scholar, Silver Technopreneur Award (YDC Dare to Change), Gold Award winner at Hong Kong Techathon+ 2024 & ITCC.
 - 💡 **Core Specializations:** Java / Spring Boot, Graph & Vector Databases, Dockerized Workflows, and Applied AI Solutions (RAG / GraphRAG / Neo4j / Milvus).
 
 ---
