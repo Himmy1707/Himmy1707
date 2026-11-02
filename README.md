@@ -74,7 +74,7 @@ A detail-oriented Computer Science graduate with hands-on experience in full-sta
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/himmyy)
+- 💼 **LinkedIn:** [Himmy Y](https://www.linkedin.com/in/himmyy)
 - 📧 **Email:** `lokhimworkemail@gmail.com`
 
 ---
