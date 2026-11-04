@@ -64,8 +64,7 @@ A detail-oriented Computer Science graduate with hands-on experience in full-sta
 ## 🏆 Key Achievements & Competitions
 
 - 🥇 **Gold Award (Smart Cities Track)** — *Hong Kong Techathon+ 2024*
-- 🥇 **Gold Award** — *YDC Dare to Change 2024 Business Pitch Competition*
-- 🥈 **Silver Technopreneur Award** — *HKSTPC 2024*
+- 🥈 **Silver Technopreneur Award** — *YDC Dare to Change 2024 Business Pitch Competition*
 - 🌟 **Top 100 in Maker in China** — *SME Innovation and Entrepreneurship Global Contest 2024*
 - 🏆 **Finalist & Innovation Award** — *The 2nd City I&T Grand Challenge Hong Kong*
 - 🎖️ **HKSAR Government Scholarship recipient** (2023/2024 & 2024/2025)
